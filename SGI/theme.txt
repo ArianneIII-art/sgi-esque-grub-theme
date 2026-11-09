@@ -45,10 +45,10 @@ terminal-box: "terminal_box_*.png"
 
 # ---- 1080p and higher res ONLY ----
 
-#+ image {
-#	file = "grub2_logo.png"
-#	top = 86%-172
-#	left = 85%-1059
-#	width = 1059
-#	height = 172
-#}
++ image {
+	file = "grub2_logo.png"
+	top = 86%-172
+	left = 85%-1059
+	width = 1059
+	height = 172
+}
